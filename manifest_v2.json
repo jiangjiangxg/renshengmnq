@@ -1,0 +1,39 @@
+{
+  "item": {
+    "id": "com.chengtqy.lifesim0",
+    "restype": "quick_app",
+    "name": "人生模拟器",
+    "description": "一款装在手环上的人生模拟：读书、找工作、赚钱、置业，看病、抽签、拼运气。你的每一个决定，都会把日子过成不同的样子。",
+    "preview": [
+      "media/1000187970.jpg",
+      "media/1000187953.jpg",
+      "media/1000187960.png",
+      "media/1000187959.png",
+      "media/1000187958.png"
+    ],
+    "icon": "media/1000183807.jpg",
+    "cover": "media/1000187970.jpg",
+    "author": [
+      {
+        "name": "chengtqy",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11nfc": {
+      "version": "6.0.5",
+      "file_name": "downloads/人生模拟器6.0.5.rpk",
+      "versionCode": 605
+    },
+    "xmb11": {
+      "version": "6.0.5",
+      "file_name": "downloads/人生模拟器6.0.5.rpk",
+      "versionCode": 605
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
